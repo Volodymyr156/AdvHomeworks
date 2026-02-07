@@ -1,5 +1,5 @@
 # Python Homeworks
-## Hi there! 
+Hi there! 
 
-This is a repository I made to show my teacher homeworks.
+This is a repository I made to store homeworks that a teacher from IT Career Hub wanted to see.
 Hope that you will find it interesting or even handy.
