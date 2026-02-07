@@ -1,5 +1,5 @@
 # Python Homeworks
 ## Hi there! 
 
-This is a repository I made to show a teacher my homeworks.
+This is a repository I made to show my teacher homeworks.
 Hope that you will find it interesting or even handy.
